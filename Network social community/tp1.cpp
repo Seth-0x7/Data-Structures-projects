@@ -5,8 +5,8 @@
  * INF3105 - Structures de données et algorithmes (Hiver 2023)
  */
 
-#include "tableau.h"
-#include "ensemble.h"
+#include "tableau_files/tableau.h"
+#include "ensemble_files/ensemble.h"
 #include <iostream>
 
 using namespace std;

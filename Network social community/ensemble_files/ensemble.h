@@ -8,7 +8,7 @@
 #ifndef __ENSEMBLE_H__
 #define __ENSEMBLE_H__
 
-#include "tableau.h"
+#include "../tableau_files/tableau.h"
 #include <ostream> 		
 
 template <class T>
